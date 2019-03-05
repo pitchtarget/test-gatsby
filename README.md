@@ -12,6 +12,8 @@ Kick off your project with this hello-world boilerplate. This starter ships with
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d7ded531-1fad-4087-87d3-18b1c229776f/deploy-status)](https://app.netlify.com/sites/serene-engelbart-e1ea54/deploys)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
